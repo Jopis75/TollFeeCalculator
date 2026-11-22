@@ -1,9 +1,9 @@
-﻿using TollFeeClassLibrary.Enums;
-using TollFeeClassLibrary.Interfaces;
+﻿using TollFee.ClassLibrary.Enums;
+using TollFee.ClassLibrary.Interfaces;
 
-namespace TollFeeClassLibrary;
+namespace TollFee.ClassLibrary;
 
-public static class TollCalculator
+public static class TollFeeCalculator
 {
 
     /**

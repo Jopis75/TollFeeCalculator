@@ -1,4 +1,4 @@
-﻿namespace TollFeeClassLibrary.Enums;
+﻿namespace TollFee.ClassLibrary.Enums;
 
 public enum VehicleType
 {

@@ -1,6 +1,6 @@
-﻿using TollFeeClassLibrary.Enums;
+﻿using TollFee.ClassLibrary.Enums;
 
-namespace TollFeeClassLibrary.Vehicles;
+namespace TollFee.ClassLibrary.Vehicles;
 
 public class Car : Vehicle
 {

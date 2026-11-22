@@ -1,4 +1,4 @@
-﻿namespace TollFeeClassLibrary.Interfaces;
+﻿namespace TollFee.ClassLibrary.Interfaces;
 
 public interface IVehicle
 {

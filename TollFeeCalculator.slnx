@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="TollFeeCalculator/TollFeeCalculator.csproj" />
-  <Project Path="TollFeeClassLibrary/TollFeeClassLibrary.csproj" />
+  <Project Path="TollFee.Tests/TollFee.Tests.csproj" />
+  <Project Path="TollFeeCalculator/TollFee.csproj" />
+  <Project Path="TollFeeClassLibrary/TollFee.ClassLibrary.csproj" />
 </Solution>

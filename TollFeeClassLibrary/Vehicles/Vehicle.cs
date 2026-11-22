@@ -1,6 +1,6 @@
-﻿using TollFeeClassLibrary.Interfaces;
+﻿using TollFee.ClassLibrary.Interfaces;
 
-namespace TollFeeClassLibrary.Vehicles;
+namespace TollFee.ClassLibrary.Vehicles;
 
 public abstract class Vehicle : IVehicle
 {
